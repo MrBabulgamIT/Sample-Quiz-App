@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Quiz App New</string>
+
+    <string name="question_1">What is Your Nickname?</string>
+    <string name="question_1_A">1. Jony</string>
+    <string name="question_1_B">2. Samiul </string>
+    <string name="question_1_C">3. Md.</string>
+    <string name="question_1_D">4. Alim</string>
+    <string name="answer_1">1. Jony</string>
+
+    <string name="question_2">What is Your Versity?</string>
+    <string name="question_2_A">1. AIUB</string>
+    <string name="question_2_B">2. IUB </string>
+    <string name="question_2_C">3. BUP</string>
+    <string name="question_2_D">4. EUB</string>
+    <string name="answer_2">4. EUB</string>
+
+    <string name="question_3">What is Your Hight School?</string>
+    <string name="question_3_A">1. Shibganj Govt Model School</string>
+    <string name="question_3_B">2. Shatrajitpur High School</string>
+    <string name="question_3_C">3. Horemohon Hight School</string>
+    <string name="question_3_D">4. Vugichugi</string>
+    <string name="answer_3">2. Shatrajitpur High School</string>
+
+    <string name="question_4">What is Your College?</string>
+    <string name="question_4_A">1. ABCD</string>
+    <string name="question_4_B">2. SBC </string>
+    <string name="question_4_C">3. SHibganj College</string>
+    <string name="question_4_D">4. EUB</string>
+    <string name="answer_4">3. SHibganj College</string>
+
+    <string name="question_5">What is Your Live Location?</string>
+    <string name="question_5_A">1. Mirpur</string>
+    <string name="question_5_B">2. Tongi </string>
+    <string name="question_5_C">3. Uttora</string>
+    <string name="question_5_D">4. Badda</string>
+    <string name="answer_5">1. Mirpur</string>
+
+</resources>
